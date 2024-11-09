@@ -46,3 +46,7 @@
 앞으로는 **음성 인식 기능**을 추가하여 보호자 없이도 학습이 가능하도록 개선할 예정입니다.
 
 ---
+## 작품사진 과 영상링크
+![도담_동서대학교_작품사진1](https://github.com/user-attachments/assets/7ba8856d-4728-4011-9e83-1103df19f869)
+<img width="516" alt="도담_동서대학교_작품사진2" src="https://github.com/user-attachments/assets/36e6c234-e256-4738-abdf-a678a69b1d3f">
+https://github.com/koth5997/Engineering-Festival-/blob/main/3.%20%EB%8F%84%EB%8B%B4_%EB%8F%99%EC%84%9C%EB%8C%80%ED%95%99%EA%B5%90_%EC%9E%91%ED%92%88%EC%98%81%EC%83%81.mp4
