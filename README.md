@@ -20,10 +20,8 @@
 
 ## 📁 리포지토리 구성
 
-- `Presentations/`: 프로젝트 발표 자료와 슬라이드
-- `Resources/`: 기술 문서 및 참조 자료
-- `Code/`: 아두이노와 웹 제어 코드
-- `Images/`: 제품 사진 및 제작 과정 사진
+- `3.도담_동서대학교_작품영상/`: 작품영상
+- `testt.ino,control.html, sever.py, braile.h/`: 아두이노와 웹 제어 코드
 
 ---
 
